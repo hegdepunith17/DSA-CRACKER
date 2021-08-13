@@ -25,7 +25,7 @@ int main()
         }
         else
         {
-            swap(a[mid], a[high]);
+            swap(a[mid], a[high]);//algorithm
             high--;
         }
     }
